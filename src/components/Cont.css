@@ -1,0 +1,33 @@
+.const {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.image{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    opacity: 20%;
+}
+
+.heading{
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.heading h1{
+    font-size: 3rem;
+    color: rgb(41, 177, 255);margin-bottom: 20px;
+}
+
+.heading p{
+    color: white;
+    font-size: 1.3rem;
+}
