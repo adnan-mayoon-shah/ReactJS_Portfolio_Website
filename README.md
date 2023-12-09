@@ -1,2 +1,2 @@
-# ReactJS_Portfolio_Website
-I develop a personal portfolio website using Html, CSS, JavaScript and ReactJS.
+# ssip_tasskno2
+This is the task 2 of level1. Portfolio
